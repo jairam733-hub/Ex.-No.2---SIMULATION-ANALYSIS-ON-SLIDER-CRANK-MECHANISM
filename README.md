@@ -17,11 +17,17 @@
 ###   ●	Geometry instruments.
 
 ## PROCEDURE:
-###  Configuration diagram
-###  Assume scale 1:10
-###  1. Draw a horizontal line and locate C 
-###  2. At C, draw CB of length 20 mm inclined at 1200 
-###  3. With B as centre, BA 60mm, draw an arc to cut the horizontal at A. Join BA to complete the configuration diagram 
+1. Set the Guide Path
+Draw a horizontal reference line and mark a point C on the right side.
+This line acts as the track or "sliding path" for the piston in your mechanism.
+
+2. Position the Crank
+At point C, draw a 20 mm line labeled CB angled at 120° from the horizontal.
+This represents the short "crank" arm that rotates to push or pull the rest of the machine.
+
+3. Connect the Rod
+Swing a 60 mm arc from point B until it crosses your horizontal line at point A.
+Connect B to A to finish the "connecting rod," completing the link between the crank and the slider.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/0e905314-0fc5-4e13-a513-67c95aced702)
 
